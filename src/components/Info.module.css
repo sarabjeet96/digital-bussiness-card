@@ -1,0 +1,42 @@
+.btn {
+  display: flex;
+  align-items: center;
+  column-gap: 15px;
+  margin: 10px;
+  margin-left: 50px;
+}
+
+img {
+  width: 317px;
+  height: 317px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.about {
+  padding: 5px;
+  text-align: center;
+}
+.mail {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  border-radius: 5px;
+  border: none;
+  padding: 5px 10px;
+}
+.lin {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  border-radius: 5px;
+  border: none;
+  padding: 5px 10px;
+  background-color: #5093e2;
+  color: #fff;
+}
+.designation {
+  color: #f3bf99;
+}
+small {
+  color: #f5f5f5;
+}
